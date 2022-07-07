@@ -28,6 +28,9 @@
     padding-right: 15%;
     color: white;
     font-family: 'Montserrat', sans-serif;
+    display: flex;
+    margin: 0;
+    padding: 0;
 }
 
 .background_NZ {
@@ -55,9 +58,21 @@
     transition: 1s;
     backface-visibility: hidden;
     transform: translateZ(0);
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0);
+    overflow: hidden;
 }
 
 .card:hover {
     box-shadow: 0 30px 70px #000;
     transform: scale3d(1.05, 1.05, 1.05);
 }
+
+/* .carousel-inner {
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0);
+    overflow: hidden;
+} */
+
+
+
