@@ -1,0 +1,63 @@
+.background {
+    background-image: url(Images/Kanguru.jpg);
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+    padding-top: 34%;
+    padding-left: 18%;
+    padding-right: 15%;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.background_OZ {
+    background-image: url(Images/OZ_BG.jpg);
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+    padding-top: 34%;
+    padding-left: 18%;
+    padding-right: 15%;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.background_NZ {
+    background-image: url(Images/NZ_BG.jpg);
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+    padding-top: 34%;
+    padding-left: 18%;
+    padding-right: 15%;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button_banner {
+    background-color: #012065;
+    color: #012065;
+}
+
+.card {
+    transition: 1s;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+}
+
+.card:hover {
+    box-shadow: 0 30px 70px #000;
+    transform: scale3d(1.05, 1.05, 1.05);
+}
