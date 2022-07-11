@@ -7,9 +7,9 @@
     background-size: cover;
     position: relative;
     min-height: 100vh;
-    padding-top: 34%;
+    /* padding-top: 34%;
     padding-left: 18%;
-    padding-right: 15%;
+    padding-right: 15%; */
     color: white;
     font-family: 'Montserrat', sans-serif;
 }
@@ -23,9 +23,9 @@
     background-size: cover;
     position: relative;
     min-height: 100vh;
-    padding-top: 34%;
+    /* padding-top: 34%;
     padding-left: 18%;
-    padding-right: 15%;
+    padding-right: 15%; */
     color: white;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
