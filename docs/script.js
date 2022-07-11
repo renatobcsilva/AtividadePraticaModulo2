@@ -21,6 +21,26 @@ function comprar() {
     });
 
     confirm(`Destino(s): ${items}\nTotal: R\$ ${soma},00 \nConfirma a compra?`);
+
+    document.getElementById("nome").value = ""
+    document.getElementById("email").value = ""
+    document.getElementById("telefone").value = ""
+    document.getElementById("sobrenome").value = ""
+    document.getElementById("ncartao").value = ""
+    document.getElementById("cvv").value = ""
+    document.getElementById("nomecartao").value = ""
+    document.getElementById("data").value = ""
+    document.getElementById("cidade").value = ""
+    document.getElementById("estado").value = ""
+    document.getElementById("cep").value = ""
+    document.getElementById("flexCheckChecked1").checked = false
+    document.getElementById("flexCheckChecked2").checked = false
+    document.getElementById("flexCheckChecked3").checked = false
+    document.getElementById("flexCheckChecked4").checked = false
+    document.getElementById("flexCheckChecked5").checked = false
+    document.getElementById("flexCheckChecked6").checked = false
+    document.getElementById("dataIda").value = ""
+    document.getElementById("dataVolta").value = ""
 }
 
 
