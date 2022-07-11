@@ -20,7 +20,11 @@ function comprar() {
         items.push(checkbox.name);
     });
 
-    confirm(`Destino(s): ${items}\nTotal: R\$ ${soma},00 \nConfirma a compra?`);
+    if (confirm(`Destino(s): ${items}\nTotal: R\$ ${soma},00 \nConfirma a compra?`)) {
+        alert("Sua compra foi confirmada!")
+    } else {
+        alert("Sua compra foi cancelada!")
+    }
 
     document.getElementById("nome").value = ""
     document.getElementById("email").value = ""
@@ -41,6 +45,7 @@ function comprar() {
     document.getElementById("flexCheckChecked6").checked = false
     document.getElementById("dataIda").value = ""
     document.getElementById("dataVolta").value = ""
+
 }
 
 
