@@ -106,3 +106,51 @@
      box-shadow: 0 30px 70px #000;
      transform: scale3d(1.05, 1.05, 1.05, 1.05);
  }
+
+ #p_home_footer {
+     color: white;
+     text-align: center;
+     font-weight: 500;
+     font-family: 'Montserrat', sans-serif;
+     margin: 0;
+ }
+
+ #p_promo_footer {
+     color: grey;
+     text-align: center;
+     font-weight: 500;
+     font-family: 'Montserrat', sans-serif;
+     margin: 0;
+ }
+
+ #p_oz_footer {
+     color: white;
+     text-align: center;
+     font-weight: 500;
+     font-family: 'Montserrat', sans-serif;
+     margin: 0;
+ }
+
+ #p_nz_footer {
+     color: white;
+     text-align: center;
+     font-weight: 500;
+     font-family: 'Montserrat', sans-serif;
+     margin: 0;
+ }
+
+ #p_contato_footer {
+     color: black;
+     text-align: center;
+     font-weight: 500;
+     font-family: 'Montserrat', sans-serif;
+     margin: 0;
+ }
+
+ #p_form_footer {
+     color: white;
+     text-align: center;
+     font-weight: 500;
+     font-family: 'Montserrat', sans-serif;
+     margin: 0;
+ }
