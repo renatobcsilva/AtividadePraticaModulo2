@@ -4,11 +4,11 @@
 
 - Usando HTML / CSS / BOOTSTRAP: 
 
-Protótipo da primeira versão do site; 
+     Protótipo da primeira versão do site; 
 
-Páginas: Home, Destino, Promoções, Contato e as demais páginas de acordo com o modelo de negócio. Usando HTML, CSS e BOOTSTRAP; 
+     Páginas: Home, Destino, Promoções, Contato e as demais páginas de acordo com o modelo de negócio. Usando HTML, CSS e BOOTSTRAP; 
 
-Páginas responsivas e adaptáveis. 
+     Páginas responsivas e adaptáveis. 
 
 
-Link:  https://renatobcsilva.github.io/AtividadePraticaModulo2/
+     Link:  https://renatobcsilva.github.io/AtividadePraticaModulo2/
