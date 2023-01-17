@@ -1,4 +1,4 @@
-# AtividadePraticaModulo2
+# Exercícios com pseudocódigo, HTML, CSS e Bootstrap
 
 - Usando conceitos de programação estruturada (Vetor), pseudocódigo que simula um cadastro para uma agência de viagens com as seguintes funções: cadastro de cliente e cadastro de destino, consulta para cada estrutura de dados. 
 
